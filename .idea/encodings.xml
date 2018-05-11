@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/core-site.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/hdfs-site.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/com/eastday" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/com/eastday/conf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/com/eastday/constract" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/com/eastday/dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/com/eastday/domain" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/com/eastday/domain/Domain.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/com/eastday/spark" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/com/eastday/spark/ItemSimilarity.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/com/eastday/utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/com/eastday/utils/DateUtil.scala" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
